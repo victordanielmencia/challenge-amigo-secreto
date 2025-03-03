@@ -1,5 +1,7 @@
 # Amigo Secreto
 
+[¡Jugar ahora en GitHub Pages!](https://victordanielmencia.github.io/challenge-amigo-secreto/)
+
 ![Imagen de portada](assets/amigo-secreto.png)
 
 ![Estado del proyecto](https://img.shields.io/badge/Estado-Completado-brightgreen)
@@ -43,9 +45,11 @@ _Aún no se han agregado capturas de pantalla._
 
 ## 🔗 Acceso al Proyecto  
 
-Puedes acceder al proyecto haciendo clic en el siguiente enlace:  
+Puedes acceder al proyecto haciendo clic en los siguientes enlaces:  
 
+- [Probar la Aplicación en GitHub Pages](https://tu-usuario.github.io/nombre-del-repositorio/)  
 - [Repositorio en GitHub](https://github.com/victordanielmencia/challenge-amigo-secreto)  
+  
 
 ## 🔧 Tecnologías Utilizadas  
 
