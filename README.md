@@ -62,6 +62,4 @@ Este proyecto fue desarrollado de manera individual.
 
 ## 📄 Licencia  
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).  
-
-
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
