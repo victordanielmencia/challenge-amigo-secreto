@@ -10,14 +10,13 @@
 
 ## 📝 Índice  
 
-- [Descripción del Proyecto](#📖-descripción-del-proyecto)  
-- [Estado del Proyecto](#estado-del-proyecto)  
-- [Demostración de Funciones](#demostración-de-funciones)  
-- [Acceso al Proyecto](#acceso-al-proyecto)  
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)  
-- [Personas Contribuyentes](#personas-contribuyentes)  
-- [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)  
-- [Licencia](#licencia)
+- [Descripción del Proyecto](#-descripción-del-proyecto)  
+- [Estado del Proyecto](#-estado-del-proyecto)  
+- [Demostración de Funciones](#-demostración-de-funciones)  
+- [Acceso al Proyecto](#-acceso-al-proyecto)  
+- [Tecnologías Utilizadas](#-tecnologías-utilizadas)  
+- [Personas Contribuyentes](#-personas-contribuyentes)
+- [Licencia](#-licencia)
 
 ## 📖 Descripción del proyecto
 
@@ -48,7 +47,7 @@ Puedes acceder al proyecto haciendo clic en el siguiente enlace:
 
 - [Repositorio en GitHub](https://github.com/victordanielmencia/challenge-amigo-secreto)  
 
-## 🛠️ Tecnologías Utilizadas  
+## 🔧 Tecnologías Utilizadas  
 
 El proyecto se desarrolló utilizando las siguientes tecnologías:  
 
