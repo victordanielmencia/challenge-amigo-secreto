@@ -21,5 +21,15 @@ function agregarALista() {
         li.textContent = amigos[i];
         lista.appendChild(li);
     }
+}
 
+function sortearAmigo() {
+    let cantidadAmigos = amigos.length;
+    let amigoSorteado = document.getElementById('resultado');
+
+    if (cantidadAmigos > 0) {
+        let numeroSorteado = Math.floor(Math.random() * cantidadAmigos);
+        console.log(numeroSorteado);
+        amigoSorteado.innerHTML = amigos[numeroSorteado];
+    }
 }
